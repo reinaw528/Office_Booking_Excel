@@ -28,7 +28,6 @@ Create an Excel dashboard to monitor:
 - Pivot Charts
 - Conditional Formatting
 - XLOOKUP
-- Data Validation
 - Dashboard Design
 
 ---
@@ -36,8 +35,8 @@ Create an Excel dashboard to monitor:
 ## Dataset
 
 Hotel Booking Demand Dataset
-
-Adapted for Office Visitor Management.
+Business Scenario Adaptation
+The original Hotel Booking dataset was adapted into an Office Visitor & Appointment Management scenario to demonstrate Microsoft Excel skills commonly used in administrative and front desk roles.
 
 ---
 
